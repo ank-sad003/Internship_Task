@@ -1,6 +1,6 @@
+import React from 'react'
 
-
-export default function manifesto() {
+export default function Manifesto() {
   return (
     <div>manifesto</div>
   )

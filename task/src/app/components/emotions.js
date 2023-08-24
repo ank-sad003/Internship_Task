@@ -1,6 +1,7 @@
+import React from 'react'
 
-export default function emotions() {
+export default function Emotions() {
   return (
-    <div>emotions</div>
+    <div>Emotions</div>
   )
 }
